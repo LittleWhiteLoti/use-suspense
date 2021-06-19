@@ -1,0 +1,3 @@
+<template>
+    The value is loading...
+</template>
